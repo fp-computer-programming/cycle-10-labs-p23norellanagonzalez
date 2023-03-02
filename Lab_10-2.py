@@ -1,5 +1,5 @@
 #Author NDO 02/16/23
-
+# using the same approach as lab 1 write a program that prints the number that are multiple of 3 in a list 
 lst = (5,10,15)
 
 while lst * 3:
